@@ -5,8 +5,11 @@ Este proyecto es una animación 3D de una breve escena inspirada en el manga **S
 
 ## Links al Video 
 
-[Video del Trabajo Final Completo](https://www.youtube.com/watch?v=BwaGiMrNsnc)
-[Video Procesado Parcial](https://www.youtube.com/watch?v=YqIUFydrrLY)
+Video del Trabajo Final Completo
+[Video](https://www.youtube.com/watch?v=BwaGiMrNsnc)
+
+Video Procesado Parcial
+[Video](https://www.youtube.com/watch?v=YqIUFydrrLY)
 
 ## Características
 
